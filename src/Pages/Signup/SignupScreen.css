@@ -1,0 +1,7 @@
+@import '../../style/root.css';
+.leftContainer{
+    background-color: var(--APP_THEME_COLOR);
+}
+.themeClr{
+    color: var(--APP_THEME_COLOR);
+}
